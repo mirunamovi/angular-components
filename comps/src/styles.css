@@ -1,1 +1,5 @@
 @import 'semantic-ui-css/semantic.css';
+
+.searchmatch {
+    font-weight: bold;
+}
